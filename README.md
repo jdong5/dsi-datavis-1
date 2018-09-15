@@ -1,5 +1,3 @@
-# dsi-dataviz-1
-First Time Practice
 # I'M A H1
 ## I'M A H2
 ### I'M A H3
