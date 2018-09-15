@@ -1,4 +1,4 @@
-# dsi-datavis-1
+# dsi-dataviz-1
 First Time Practice
 # I'M A H1
 ## I'M A H2
